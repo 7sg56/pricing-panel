@@ -2,6 +2,10 @@
 
 This project showcases a simple, responsive pricing panel with three pricing tiers: Personal, Small Team, and Enterprise. Each tier displays different features and a price, with options for sign-up or trial.
 
+# Preview Link
+
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/7sg56/Pricing-Panel/refs/heads/main/pricing-panel/index.html
+
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
