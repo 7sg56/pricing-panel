@@ -10,6 +10,7 @@ This project showcases a simple, responsive pricing panel with three pricing tie
 
 ## Demo
 This project can be viewed in a web browser. Click the link below to see the pricing panel in action.
+
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/7sg56/Pricing-Panel/refs/heads/main/pricing-panel/index.html
 
 ## Features
